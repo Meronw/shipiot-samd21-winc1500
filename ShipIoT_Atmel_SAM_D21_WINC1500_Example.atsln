@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ShipIoT_Atmel_SAM_D21_WINC1500_Example", "ShipIoT_Atmel_SAM_D21_WINC1500_Example\ShipIoT_Atmel_SAM_D21_WINC1500_Example.cproj", "{79BF41DC-76AC-4C5C-B3D0-0820BBE1FB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BF41DC-76AC-4C5C-B3D0-0820BBE1FB30}.Debug|ARM.ActiveCfg = Debug|ARM
+		{79BF41DC-76AC-4C5C-B3D0-0820BBE1FB30}.Debug|ARM.Build.0 = Debug|ARM
+		{79BF41DC-76AC-4C5C-B3D0-0820BBE1FB30}.Release|ARM.ActiveCfg = Release|ARM
+		{79BF41DC-76AC-4C5C-B3D0-0820BBE1FB30}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
