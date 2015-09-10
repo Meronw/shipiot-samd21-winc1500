@@ -1,4 +1,4 @@
-# ShipIoT with Atmel SAMD21 Xplained Pro, WINC1500 WiFi, and I/O1 sensors
+# Ship IoT with Atmel SAMD21 Xplained Pro, WINC1500 WiFi, and I/O1 sensors
 
 *Based on Atmel's "WINC1500 Simple TCP Client Example for SAM D21" code*
 
